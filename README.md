@@ -1,15 +1,6 @@
-# Diario-che-ti-ascolta
 # 📖 Diario che ti Ascolta
 
 > Progetto universitario per il corso di **Interazione Uomo-Macchina** — Università degli Studi di Salerno
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Corso-Interazione%20Uomo--Macchina-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tool-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metodo-User--Centered%20Design-green?style=for-the-badge" />
-</p>
-
----
 
 ## Il Progetto
 
